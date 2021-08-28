@@ -1,5 +1,5 @@
 # A-Unique-Star-Wars-Movie-Survey-Analysis.
-[Click here to see the Jupyter Notebook](Star+Wars+Survey4+IIipynb)
+[Click here to see the Jupyter Notebook](Star+Wars+Survey4+II.ipynb)
 
 This was a fun project to take on!!
 
@@ -23,4 +23,4 @@ Here's a sample of the questions answered in this report:
 
 7. There are fourteen characters identified in the survey who were portrayed in some or all of the movies identified. Who were the top 5 most liked and the bottom 5 most disliked?
 
-
+[Click here to see the Jupyter Notebook](Star+Wars+Survey4.pdf) (if you prefer to download the pdf file).
